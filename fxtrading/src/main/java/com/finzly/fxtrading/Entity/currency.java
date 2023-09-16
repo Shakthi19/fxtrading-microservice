@@ -46,7 +46,7 @@ public class currency {
 
 	@Override
 	public String toString() {
-		return "ccyData [id=" + id + ", currencyPair=" + currencyPair + ", rate=" + rate + "]";
+		return "currency [id=" + id + ", currencyPair=" + currencyPair + ", rate=" + rate + "]";
 	}
 
 		
